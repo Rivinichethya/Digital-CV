@@ -1,3 +1,5 @@
+![Rivini](Rivini.jpg)
+
 # Rivini Chethya
 **Student** 
 
