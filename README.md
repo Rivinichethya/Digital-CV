@@ -1,4 +1,4 @@
-![Rivini](Rivini.jpg)
+![Rivini](Rivini.jpeg)
 
 # Rivini Chethya
 **Student** 
