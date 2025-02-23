@@ -11,4 +11,4 @@
 
 ## Contact
 - Email: ruvinichethya@gmail.com
-- - GitHub: [github.com/Rivinichethya](https://github.com/Rivinichethya)
+- GitHub: [github.com/Rivinichethya](https://github.com/Rivinichethya)
