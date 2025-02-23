@@ -1,4 +1,8 @@
 ![Rivini](Rivini.jpeg)
+git add index.md
+git commit -m "Add profile image to CV"
+git push origin main
+
 
 # Rivini Chethya
 **Student** 
